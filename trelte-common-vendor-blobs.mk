@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trelte-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/trelte-common/proprietary/vendor/firmware/setfile_6d1.bin:system/vendor/firmware/setfile_6d1.bin \
     vendor/samsung/trelte-common/proprietary/vendor/firmware/setfile_imx240.bin:system/vendor/firmware/setfile_imx240.bin \
-    vendor/samsung/trelte-common/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/trelte-common/proprietary/bin/sensorhubservice:system/bin/sensorhubservice \
     vendor/samsung/trelte-common/proprietary/bin/lhd:system/bin/lhd \
     vendor/samsung/trelte-common/proprietary/etc/lhd.conf:system/etc/lhd.conf \
