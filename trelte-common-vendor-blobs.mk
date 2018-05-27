@@ -74,6 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trelte-common/proprietary/etc/sec_s3fwrn5_rfreg.bin:system/etc/sec_s3fwrn5_rfreg.bin \
     vendor/samsung/trelte-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
     vendor/samsung/trelte-common/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
+    vendor/samsung/trelte-common/proprietary/lib/libhr.so:system/lib/libhr.so \
     vendor/samsung/trelte-common/proprietary/lib/hw/consumerir.exynos5.so:system/lib/hw/consumerir.exynos5.so \
     vendor/samsung/trelte-common/proprietary/lib/hw/nfc_nci.universal5433.so:system/lib/hw/nfc_nci.universal5433.so \
     vendor/samsung/trelte-common/proprietary/lib/hw/sensorhubs.universal5433.so:system/lib/hw/sensorhubs.universal5433.so \
